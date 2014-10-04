@@ -827,7 +827,7 @@ img.wp-smiley,
 }
 
 .site-header .site-title:hover {
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 .site-title {
